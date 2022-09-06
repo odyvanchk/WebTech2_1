@@ -1,11 +1,11 @@
 Tasks:
 1. Вычислить значение выражения по формуле (все переменные принимают действительные
 значения).
-![formula](https://github.com/odyvanchk/WebTech2_2/tree/master/images/1.png?raw=true)
+![formula](https://github.com/odyvanchk/WebTech2_1/blob/main/images/1.png?raw=true)
 
 2. Для данной области составить программу, которая печатает true, если точка с координатами (х,
 у) принадлежит закрашенной области, и false — в противном случае.
-![picture](https://github.com/odyvanchk/WebTech2_2/tree/master/images/2.png?raw=true)
+![picture](https://github.com/odyvanchk/WebTech2_1/blob/main/images/2.png?raw=true)
 
 3. Составить программу для вычисления значений функции F(x) на отрезке [а, b] с шагом h. Результат
 представить в виде таблицы, первый столбец которой – значения аргумента, второй -
@@ -20,7 +20,7 @@ Tasks:
 
 6. Даны действительные числа a1, a2, …, an. Получить следующую квадратную матрицу порядка
 n.
-![matrix](https://github.com/odyvanchk/WebTech2_2/tree/master/images/6.png?raw=true)
+![matrix](https://github.com/odyvanchk/WebTech2_1/blob/main/images/6.png?raw=true)
 
 7. Сортировка Шелла. Дан массив n действительных чисел. Требуется упорядочить его по
 возрастанию. Делается это следующим образом: сравниваются два соседних элемента ai и ai+1 .
